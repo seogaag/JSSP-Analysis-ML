@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="test" category="opl">
+            			
+            <ref name="test.ops" type="setting">
+			</ref>
+            			
+            <ref name="jobshop.mod" type="model">
+			</ref>
+            			
+            <ref name="data/1.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>

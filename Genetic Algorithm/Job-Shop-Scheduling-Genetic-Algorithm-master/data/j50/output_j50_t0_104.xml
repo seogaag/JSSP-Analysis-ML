@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+ <job id="1">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="80" />
+ </process>
+ <process id="5">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="2">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="3">
+ <process id="1">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="4">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ </job>
+ <job id="5">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ </job>
+ <job id="6">
+ <process id="1">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="7">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="4">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="8">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="9">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ </job>
+ <job id="10">
+ <process id="1">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="11">
+ <process id="1">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="100" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="12">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="13">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="14">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="2">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="15">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="2">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="16">
+ <process id="1">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="100" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="17">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ </job>
+ <job id="18">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="100" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="19">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ </job>
+ <job id="20">
+ <process id="1">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="21">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ </job>
+ <job id="22">
+ <process id="1">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="23">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="24">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="100" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="25">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ </job>
+ <job id="26">
+ <process id="1">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="27">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="28">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="29">
+ <process id="1">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="30">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="31">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="32">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="3">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="33">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="60" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="34">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="80" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="35">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="80" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="36">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="100" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ </job>
+ <job id="37">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ </job>
+ <job id="38">
+ <process id="1">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="39">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="80" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="40">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="20" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ </job>
+ <job id="41">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="20" />
+ </process>
+ </job>
+ <job id="42">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="43">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="40" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="80" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="60" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="44">
+ <process id="1">
+ <machine id="1" time="100" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="80" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="40" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="45">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="80" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="80" />
+ </process>
+ <process id="5">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="46">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="20" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ </job>
+ <job id="47">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="60" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="20" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="5">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="48">
+ <process id="1">
+ <machine id="1" time="40" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="100" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="60" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="20" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="49">
+ <process id="1">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="60" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="40" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ <job id="50">
+ <process id="1">
+ <machine id="1" time="-1" />
+ <machine id="2" time="100" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="2">
+ <machine id="1" time="80" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="3">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="80" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="-1" />
+ </process>
+ <process id="4">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="-1" />
+ <machine id="5" time="100" />
+ </process>
+ <process id="5">
+ <machine id="1" time="-1" />
+ <machine id="2" time="-1" />
+ <machine id="3" time="-1" />
+ <machine id="4" time="40" />
+ <machine id="5" time="-1" />
+ </process>
+ </job>
+ </data>
